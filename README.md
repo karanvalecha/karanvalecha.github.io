@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<!-- saved from url=(0014)about:internet -->
 <html>
    <head>
       <style>main{margin:0 40px;max-width:700px;}a{color:#000;font-weight:bold;}a:visited{color:#000;font-weight:bold;}a:hover{background:#000;color:#fff;-webkit-text-decoration:none;text-decoration:none;}hr{background:#eee;border:0;height:1px;}time{color:#9b9b9b;}@media (min-width:900px){main{margin:0 auto;}}</style>
