@@ -1,12 +1,35 @@
-<h1 align="center">Hi 👋, I'm Karan Valecha</h1>
-<h3 align="center">A Full-Stack Developer, primarily working on Ruby on Rails</h3>
-
-- 📝 I regularly write articles on [blog.kiprosh.com](blog.kiprosh.com)
-
-- 💬 Ask me about **Ruby & Javascript**
-
-- 📫 How to reach me LinkedIN: https://in.linkedin.com/in/karanvalecha
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+<html>
+   <head>
+      <style>main{margin:0 40px;max-width:700px;}a{color:#000;font-weight:bold;}a:visited{color:#000;font-weight:bold;}a:hover{background:#000;color:#fff;-webkit-text-decoration:none;text-decoration:none;}hr{background:#eee;border:0;height:1px;}time{color:#9b9b9b;}@media (min-width:900px){main{margin:0 auto;}}</style>
+      <style>html,body{padding:0;margin:0;font-family:Menlo,Monaco,Lucida Console,monospace,serif;font-size:0.9375rem;line-height:1.625rem;}header,footer{margin:40px 0;}footer a,header a{-webkit-text-decoration:none;text-decoration:none;}footer h1,header h1{font-size:1.4rem;}*{box-sizing:border-box;}</style>
+   </head>
+   <body>
+      <div id="__next">
+         <div class="container">
+            <main>
+               <header>
+                  <h1><a href="https://github.com/karanvalecha" title="View Karan's GitHub Profile Page">Karan Valecha</a></h1>
+                  <h4>🧑🏻‍💻A Full Stack Developer focusing in Ruby on Rails.</h4>
+               </header>
+               <section>
+                  <p>Lead Software Engineer <a href="https://www.kiprosh.com">@Kiprosh</a></p>
+                  <hr>
+                  A few of my recent blog posts:
+                  <ul>
+                  <li><a href="https://blog.kiprosh.com/ghost/#/editor/post/6079ac585e6fb60795612fef">ActionMailer: switch provider at runtime.</a></li>
+                  <li><a href="https://blog.kiprosh.com/active-record-simple-attribute-encryption/" >ActiveRecord attribute encryption in Ruby on Rails for better security compliance</a></li>
+                  <li><a href="https://blog.kiprosh.com/rails-connection-pool-threads-arel/" >Speed up time-sensitive database process in Rails applications using a Connection pool, Threads, and Arel</a></li>
+                </ul>
+               </section>
+               <footer>
+                  <hr>
+                  <p>Connect to me on <a href="https://in.linkedin.com/in/karanvalecha">LinkedIN</a> or
+                  Ping me on <a href="https://github.com/karanvalecha" title="Joe on GitHub">GitHub</a> or <a href="https://twitter.com/IamKaranV" title="Karan on Twitter">Twitter</a>. <a href="https://github.com/karanvalecha/karanvalecha/blob/master/LICENSE" title="The license file on GitHub">© MIT 2020</a></p>
+               </footer>
+            </main>
+         </div>
+      </div>
+   </body>
+</html>
